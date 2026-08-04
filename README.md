@@ -14,3 +14,7 @@ right
 минимизация рисков совершения терактов и 
 
 подготовка объекта к эффективным действиям в случае возникновения чрезвычайных ситуаций
+
+# file:///C:/Users/PC/Downloads/Official_Evacuation_Report.pdf
+# file:///C:/Users/PC/Downloads/Evacuation_Report%20(5).pdf
+
